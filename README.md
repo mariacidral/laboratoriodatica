@@ -1,3 +1,3 @@
-# laboratoriodatica
+# lab_da_Tica
 oi! 
-esse é meu primeiro projeto, estou muito entusiasmada :D
+esse já não é mais o meu primeiro projeto, é agora minha reconquista!!!
